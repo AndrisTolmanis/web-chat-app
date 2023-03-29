@@ -35,7 +35,7 @@ export default {
       registerCode: '+371',
       registerPhone: null,
       cookie: null,
-      socket: new WebSocket("ws://192.168.1.11:8090"),
+      // socket: new WebSocket("ws://192.168.1.11:8090"),
 
       messageInput: '',
 
